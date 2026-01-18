@@ -43,8 +43,8 @@ This opens a browser window to authorize the CLI. Credentials are stored in `~/.
 ### 3. Clone or Fork This Repository
 
 ```bash
-git clone https://github.com/prodyssey/ace-cli-template.git
-cd ace-cli-template
+git clone https://github.com/prodyssey/ace-assistant-in-agent.git
+cd ace-assistant-in-agent
 ```
 
 Or click "Use this template" on GitHub to create your own copy.
